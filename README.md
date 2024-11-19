@@ -17,7 +17,7 @@ This project is an interactive Tableau dashboard designed for a bike store to an
 
 ## 📷 Screenshots  
 ### Dashboard Overview  
-![Dashboard Overview][https://github.com/des-data/bike-store-dashboard/blob/main/Overview.PNG)  
+![Dashboard Overview][https://github.com/des-data/bikes-store-dashboard/blob/main/Overview.PNG)  
 
 ---
 
